@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "HP")(type "KiCad")(uri "C:/Users/shaya/Downloads/OPL_Kicad_Library-master/OPL_Kicad_Library-master/Seeed Studio XIAO Series Library/Seeed_Studio_XIAO_Series.kicad_sym")(options "")(descr ""))
+  (lib (name "HP2")(type "KiCad")(uri "C:/Users/shaya/Downloads/squarepad-main/squarepad-main/pcb/KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty/I2C_OLED.kicad_sym")(options "")(descr ""))
+)
