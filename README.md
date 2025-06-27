@@ -1,3 +1,6 @@
+# Adib's HackPad
+
+(Before you critisise anything, its my first time - juuustttt.. keep that in mind please lol.)
 I took 30 or more hours on this, trust me.
 I did this over the course of a week.
 started doing the tutorial 1:1, then I realised that you wern't meant to follow it.
@@ -14,8 +17,8 @@ This is a 3x3 Key Matrix style MacoPad with a 0.91 inch I2C type oled (the highl
                               ┃┃ ┃┃
 A picture should be down here vv vv
 
-![My HackPad](assets/Adib's HackPad Assembled.png)
-![My HackPad](Adibs_HackPad_Schematic.png)
-![My HackPad](Adibs_HackPad_PCB.png)
-![My HackPad](Adibs_HackPad_Case.png)
-![My HackPad](Adibs_HackPad_Knob.png)
+![My HackPad](assets/Adib%27s%20HackPad%20Assembled.png)
+![My HackPad](assets/Adib%27s%20HackPad%20Schematic.png)
+![My HackPad](assets/Adib%27s%20HackPad%20PCB.png)
+![My HackPad](assets/Adib%27s%20HackPad%20Case.png)
+![My HackPad](assets/Adib%27s%20HackPad%20Knob.png)
