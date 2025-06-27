@@ -14,9 +14,8 @@ Btw it took me soo long because the concept of a PCB was alien to me.
 Now since my sob story's done. lets get to the facts:
 
 This is a 3x3 Key Matrix style MacoPad with a 0.91 inch I2C type oled (the highlight of the pain of my journey) and a rotary encoder for volume.
-                              ┃┃ ┃┃
-A picture should be down here vv vv
-
+             
+A picture should be down here: v
 ## The Main Hackpad!
 ![My HackPad](assets/Adib%27s%20HackPad%20Assembled.png)
 
