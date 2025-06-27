@@ -14,8 +14,8 @@ This is a 3x3 Key Matrix style MacoPad with a 0.91 inch I2C type oled (the highl
                               ┃┃ ┃┃
 A picture should be down here vv vv
 
-![My HackPad](Adib's HackPad Assembled.png)
-![My HackPad](Adib's HackPad Schematic.png)
-![My HackPad](Adib's HackPad PCB.png)
-![My HackPad](Adib's HackPad Case.png)
-![My HackPad](Adib's HackPad Knob.png)
+![My HackPad](Adibs_HackPad_Assembled.png)
+![My HackPad](Adibs_HackPad_Schematic.png)
+![My HackPad](Adibs_HackPad_PCB.png)
+![My HackPad](Adibs_HackPad_Case.png)
+![My HackPad](Adibs_HackPad_Knob.png)
